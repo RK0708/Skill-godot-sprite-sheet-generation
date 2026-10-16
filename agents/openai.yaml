@@ -1,0 +1,7 @@
+interface:
+  display_name: "Godot 遊戲精靈圖生成"
+  short_description: "依角色參考與動作描述，製作透明背景的 Godot 遊戲精靈圖"
+  default_prompt: "使用 $godot-sprite-sheet-generation，依附圖角色產生指定動作的 Godot 精靈圖。"
+
+policy:
+  allow_implicit_invocation: true
